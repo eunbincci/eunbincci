@@ -1,7 +1,7 @@
 # Hi I'm Eunbin 👋
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,vue,git,github,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,vue,flutter,dart,git,github,figma"/>
 
 ## Actives
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eunbincci&theme=zenburn)&nbsp;&nbsp;&nbsp;&nbsp;
